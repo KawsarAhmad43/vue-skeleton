@@ -1,4 +1,4 @@
-![vs](https://github.com/KawsarAhmad43/vue-skeleton/assets/54704888/bc4862eb-fd46-48f9-a910-97b28b9470aa)
+![vue-skeleton](https://github.com/KawsarAhmad43/vue-skeleton/assets/54704888/cb45bc84-96e6-4cdb-a9a8-23eb6698539f)
 # Vue Skeleton
 
 ## Project setup
