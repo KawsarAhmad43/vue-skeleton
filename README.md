@@ -1,4 +1,5 @@
-# vue-app
+![vs](https://github.com/KawsarAhmad43/vue-skeleton/assets/54704888/bc4862eb-fd46-48f9-a910-97b28b9470aa)
+# Vue Skeleton
 
 ## Project setup
 ```
